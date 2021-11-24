@@ -1,5 +1,8 @@
 # myweather_app
 
+## 해당 프로그램은 Nomad Coders에서의 '왕초보를 위한 React Native 101'강의를 활용해 만든 '날씨앱' 프로그램입니다.
+
+---
 
 # API
 - 날씨 API : open weather (https://openweathermap.org/api/one-call-api)
