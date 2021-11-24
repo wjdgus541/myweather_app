@@ -21,5 +21,12 @@
 - Sun : 현재 해의 위치 표시 컴포넌트
 - SunMoon : 시간에 맞춰 해 또는 달 컴포넌트 표시
 - TempByHour : 시간별 온도 그래프 표시 컴포넌트
-- WeeklyTemp : 주간 온도를 표시할 모달창 설정 컴포넌트
-- WeeklyTempModal : 주간 온도 표시 모달창 컴포넌트
+- WeeklyTemp : 주간 온도 표시 모달창 컴포넌트
+- WeeklyTempModal : 주간 온도를 표시할 모달창 설정 컴포넌트
+
+---
+
+# Issue
+- open weather api 사용시 지역 이름이 한글이 아닌 영어로 표기 (-> 구글 Maps API 사용)
+- 하단 화살표(WeeklyTemp) 드래그시 모달창이 뜨도록 하고 싶었으나 기술 경험 부족 ;ㅅ; (-> 버튼 클릭시 모달창을 띄움)
+- 음력 API JSON형식으로 request 요청시 데이터가 단계적?으로 들어오는 문제!
