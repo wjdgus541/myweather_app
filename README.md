@@ -6,6 +6,10 @@
 - 위치 API : 구글 Maps JavaSctipt API (https://developers.google.com/maps/documentation/javascript/overview?hl=ko) -> 현재 위치를 한글로 받기 위해 사용
 - 음력 API : 한국천문연구원_음양력 정보 (https://www.data.go.kr/data/15012679/openapi.do) -> 음력을 구해 달의 모양을 알아내기 위해 사용
 
+- 본 저작물은 기상청에서 2021년 작성하여 공공누리 제1유형으로 개방한 동네예보 조회서비스(작성자:기상청)'를 이용하였으며, 해당 저작물은 기상청(data.kma.go.kr/api/selectApiDetail.do)에서 무료로 다운받으실 수 있습니다.
+
+---
+
 
 # Components
 - AnotherTemp : 체감온도, 바람, 습도 표시 컴포넌트
